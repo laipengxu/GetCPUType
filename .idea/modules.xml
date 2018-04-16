@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GetCPUType.iml" filepath="$PROJECT_DIR$/GetCPUType.iml" />
+      <module fileurl="file://G://GetCPUType/GetCPUType.iml" filepath="G://GetCPUType/GetCPUType.iml" />
+    </modules>
+  </component>
+</project>
